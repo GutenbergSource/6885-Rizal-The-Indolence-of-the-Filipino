@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Indolence of the Filipino</dc:title>
+      <dc:creator>José Rizal (1861–1896)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2004-11-01</dc:publisher>
+      <dc:date>2004-11-01</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman.
+gbn1013: José Rizal, The Indolence of the Filipino. Jeroen Hellingman &lt;jehe@kabelfoon.nl&gt;. 1913c. 12/15/2002. ok.
+This text is in the public domain. First published in 1913 in the Philippines (Manila, Philippine Education Company).
+</dc:rights>
+      <dc:identifier>pg:6885</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
